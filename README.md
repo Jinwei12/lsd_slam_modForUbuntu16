@@ -1,5 +1,8 @@
 # LSD-SLAM: Large-Scale Direct Monocular SLAM
 
+I(Jinwei12) make some changes in several files to make it build successfully in Ubuntu16.
+--------------------------------
+
 LSD-SLAM is a novel approach to real-time monocular SLAM. It is fully direct (i.e. does not use keypoints / features) and creates large-scale, 
 semi-dense maps in real-time on a laptop. For more information see
 [http://vision.in.tum.de/lsdslam](http://vision.in.tum.de/lsdslam)

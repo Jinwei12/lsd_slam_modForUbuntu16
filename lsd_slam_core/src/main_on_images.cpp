@@ -37,6 +37,7 @@
 #include <ros/package.h>
 
 #include "opencv2/opencv.hpp"
+#include "opencv2/imgcodecs.hpp"
 
 std::string &ltrim(std::string &s) {
         s.erase(s.begin(), std::find_if(s.begin(), s.end(), std::not1(std::ptr_fun<int, int>(std::isspace))));
